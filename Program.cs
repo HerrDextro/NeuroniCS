@@ -63,7 +63,7 @@ namespace TicTacToe_Neuronics
 
         private void PlayMusic()
         {
-            string audioPath = @"C:\Users\Neo\source\repos\TicTacToe Neuronics\TicTacToe Neuronics\resources\NeuronicsTheme2.wav";
+            string audioPath = Path.Combine(AppDomain.CurrentDomain.BaseDirectory, "resources", "NeuronicsTheme2.wav"); //AI, no idea what or why
             SoundPlayer player = new SoundPlayer(audioPath);
 
             Thread musicThread = new Thread(() =>
