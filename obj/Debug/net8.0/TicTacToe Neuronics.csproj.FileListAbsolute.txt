@@ -1,0 +1,18 @@
+C:\Users\Neo\source\repos\TicTacToe Neuronics\TicTacToe Neuronics\obj\Debug\net8.0\TicTacToe Neuronics.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neo\source\repos\TicTacToe Neuronics\TicTacToe Neuronics\obj\Debug\net8.0\TicTacToe Neuronics.AssemblyInfoInputs.cache
+C:\Users\Neo\source\repos\TicTacToe Neuronics\TicTacToe Neuronics\obj\Debug\net8.0\TicTacToe Neuronics.AssemblyInfo.cs
+C:\Users\Neo\source\repos\TicTacToe Neuronics\TicTacToe Neuronics\obj\Debug\net8.0\TicTacToe Neuronics.csproj.CoreCompileInputs.cache
+C:\Users\Neo\source\repos\TicTacToe Neuronics\TicTacToe Neuronics\obj\Debug\net8.0\TicTacToe Neuronics.csproj.AssemblyReference.cache
+C:\Users\Neo\source\repos\TicTacToe Neuronics\TicTacToe Neuronics\bin\Debug\net8.0\TicTacToe Neuronics.exe
+C:\Users\Neo\source\repos\TicTacToe Neuronics\TicTacToe Neuronics\bin\Debug\net8.0\TicTacToe Neuronics.deps.json
+C:\Users\Neo\source\repos\TicTacToe Neuronics\TicTacToe Neuronics\bin\Debug\net8.0\TicTacToe Neuronics.runtimeconfig.json
+C:\Users\Neo\source\repos\TicTacToe Neuronics\TicTacToe Neuronics\bin\Debug\net8.0\TicTacToe Neuronics.dll
+C:\Users\Neo\source\repos\TicTacToe Neuronics\TicTacToe Neuronics\bin\Debug\net8.0\TicTacToe Neuronics.pdb
+C:\Users\Neo\source\repos\TicTacToe Neuronics\TicTacToe Neuronics\bin\Debug\net8.0\System.Windows.Extensions.dll
+C:\Users\Neo\source\repos\TicTacToe Neuronics\TicTacToe Neuronics\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Windows.Extensions.dll
+C:\Users\Neo\source\repos\TicTacToe Neuronics\TicTacToe Neuronics\obj\Debug\net8.0\TicTacTo.000F2B80.Up2Date
+C:\Users\Neo\source\repos\TicTacToe Neuronics\TicTacToe Neuronics\obj\Debug\net8.0\TicTacToe Neuronics.dll
+C:\Users\Neo\source\repos\TicTacToe Neuronics\TicTacToe Neuronics\obj\Debug\net8.0\refint\TicTacToe Neuronics.dll
+C:\Users\Neo\source\repos\TicTacToe Neuronics\TicTacToe Neuronics\obj\Debug\net8.0\TicTacToe Neuronics.pdb
+C:\Users\Neo\source\repos\TicTacToe Neuronics\TicTacToe Neuronics\obj\Debug\net8.0\TicTacToe Neuronics.genruntimeconfig.cache
+C:\Users\Neo\source\repos\TicTacToe Neuronics\TicTacToe Neuronics\obj\Debug\net8.0\ref\TicTacToe Neuronics.dll

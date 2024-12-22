@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gbYmSIHuI7I=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Neo\\source\\repos\\TicTacToe Neuronics\\TicTacToe Neuronics\\TicTacToe Neuronics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Neo\\.nuget\\packages\\system.windows.extensions\\9.0.0\\system.windows.extensions.9.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,4 @@
+NeuroniCS Neural Network [v1.0.7] specialized for TicTacToe
+
+First player will be randomly chosen. (NOT)
+PLease note weights would ned to be loaded before playing, or the opponent will be untrained.
